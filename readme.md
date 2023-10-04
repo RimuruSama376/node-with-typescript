@@ -1,0 +1,1 @@
+### In the package.json file inside scripts modify the `dev` script to include the path of the file 
